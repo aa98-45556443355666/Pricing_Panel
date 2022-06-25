@@ -1,2 +1,2 @@
 # Pricing_Panel
-Simple HTML page
+Simple HTML page with CSS
